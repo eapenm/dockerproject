@@ -43,3 +43,15 @@ Now, let’s compare both images. Check the images created with the following co
 ```
 docker images
 ```
+![image](https://user-images.githubusercontent.com/13297994/222604700-f1d3272b-2eef-4eaa-991d-aa602ff765e4.png)
+
+
+
+
+Push the image to docker hub
+
+
+docker pushxxxxxxxx/helloworld:small
+
+![image](https://user-images.githubusercontent.com/13297994/222604545-de59f496-2dba-43ca-b438-1d8187bb7afd.png)
+
